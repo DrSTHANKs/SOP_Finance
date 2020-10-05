@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="iphayao/config/src/main/java"/>
+	<classpathentry kind="src" path="iphayao/discovery/src/main/java"/>
+	<classpathentry kind="src" path="iphayao/gateway/src/main/java"/>
+	<classpathentry kind="src" path="iphayao/svc-department/src/main/java"/>
+	<classpathentry kind="src" path="iphayao/svc-employee/src/main/java"/>
+	<classpathentry kind="src" path="iphayao/svc-organization/src/main/java"/>
+	<classpathentry kind="src" path="KMITLRegistrarsAPIs/config/src/main/java"/>
+	<classpathentry kind="src" path="KMITLRegistrarsAPIs/discovery/src/main/java"/>
+	<classpathentry kind="src" path="KMITLRegistrarsAPIs/gateway/src/main/java"/>
+	<classpathentry kind="src" path="KMITLRegistrarsAPIs/svc-register/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
